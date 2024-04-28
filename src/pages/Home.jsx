@@ -44,7 +44,7 @@ const Home = () => {
 </div>
 
 <div className='h-[100px] w-[auto] text-[50px] text-center pt-2 mt-2 mb-2 text-[black]'>
-<h2>Our Bolg</h2>
+<h2>Area Name</h2>
 </div>
 
         <div className='d-flex w-[90%] justify-center m-auto '> 
