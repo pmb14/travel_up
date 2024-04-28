@@ -1,0 +1,17 @@
+#box{
+  position: relative;
+  display:flex;
+  
+}
+#box1{
+  position: absolute;
+  height: 500px;
+  width: 50%;
+  
+}
+
+#box2{
+  position: absolute;
+  height: 500px;
+  width: 50%;
+}
