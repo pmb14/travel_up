@@ -1,11 +1,12 @@
-{ "homepage":"https//pmb14.github.io/travel_up",
+{
+  "homepage": "https//pmb14.github.io/travel_up",
   "name": "travel_up",
   "private": true,
   "version": "0.1.0",
   "type": "module",
   "scripts": {
     "start": "npm run dev",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
